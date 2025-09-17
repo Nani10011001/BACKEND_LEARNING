@@ -1,0 +1,22 @@
+{
+  "name": "nani",
+  "version": "1.0.0",
+  "description": "the best package ever",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start":"node index.js",
+    "dev":"nodemon index.js"
+  },
+  "keywords": [
+    "awesome",
+    "javascript",
+    "best",
+    "ever"
+  ],
+  "author": "nani the best",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
